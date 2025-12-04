@@ -171,7 +171,9 @@ Dopo il workshop, il team di ricerca ha effettuato un processo strutturato di tr
   - `osservazioni_generali`  
 - **Derivazione delle frequenze settimanali di smaltimento** per ciascuna tipologia di rifiuto, sulla base delle icone e dei simboli applicati dai partecipanti.  
 - **Digitalizzazione delle mappe fisiche** tramite scansione e salvataggio in formato PNG.  
-- **Anonimizzazione visiva**: offuscamento manuale di tutte le informazioni sensibili (vie, civici, percorsi riconducibili all’indirizzo).  
+- **Anonimizzazione visiva**: offuscamento manuale di tutte le informazioni sensibili (vie, civici, percorsi riconducibili all’indirizzo).
+   <img width="268" height="357" alt="mappa_ID01" src="https://github.com/user-attachments/assets/e811aadd-aa86-4e44-86a1-a3d4ed3d7f8f" />
+
 - **Pseudonimizzazione dei punti di raccolta** tramite codici ECOCxx/ECOPxx.  
 - **Verifica incrociata** dei dati tra mappe, annotazioni e foglio digitale per garantire coerenza e minimizzare errori di trascrizione.  
 - **Standardizzazione** di formati, categorie e codifica secondo criteri FAIR.
