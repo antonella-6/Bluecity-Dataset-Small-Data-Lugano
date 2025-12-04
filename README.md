@@ -224,8 +224,9 @@ Le principali operazioni di data cleaning sono state:
 - **Data Owner:** SUPSI – Dipartimento Ambiente Costruzioni e Design, Istituto Design
 - **Affiliazione istituzionale:** SUPSI – Dipartimento Ambiente Costruzioni e Design, Istituto Design
 - **Workshop facilitato da:** Collaboratori e collaboratrici dell'Istituto Design della SUPSI di Mendrisio: Antonella Autuori; Ginevra Terenghi; Giovanni Profeta; Luca Draisci; Alice Mioni; Matteo Subet
-- **Raccolta dati:** Lugano, LongLake Festival – 16/18 Luglio 2025  
-- **Versione FAIR del dataset:** 2025  
+- **Raccolta dati:** Lugano, LongLake Festival – 16/18 Luglio 2025
+- **Creazione dataset:** 06-10-2025
+- **Versione FAIR del dataset:** 03-12-2025
 - **Publisher:** Zenodo
 - **Paper correlato:** Autuori, A. (2025). Seeing-thinking-sharing-sensing small data: A participatory framework to connect citizens' experiences with urban governance. Zenodo. DOI: https://doi.org/10.5281/zenodo.17816721
 
