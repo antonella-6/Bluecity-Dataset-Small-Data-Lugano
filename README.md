@@ -113,8 +113,6 @@ Questo dataset è distribuito con licenza:
 
 ## 6. Repository previsto
 - **Zenodo** come repository principale (assegnazione DOI, conservazione a lungo termine).  
-- **OneDrive pubblico** come mirror per le immagini anonimizzate.
-
 ---
 
 ## 7. Struttura del dataset (overview)
