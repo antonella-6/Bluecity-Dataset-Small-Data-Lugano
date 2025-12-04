@@ -18,7 +18,7 @@ La raccolta dei dati è avvenuta durante il workshop partecipativo **[Pixel Urba
 Un paper dedicato alla concettualizzazione degli small data nel progetto Bluecity è disponibile come **preprint su Zenodo**:
 
 > **Autuori, A. (2025). _Seeing-thinking-sharing-sensing small data: A participatory framework to connect citizens' experiences with urban governance._ Zenodo.**  
-> DOI: https://doi.org/10.5281/zenodo.17813817  
+> DOI: ttps://doi.org/10.5281/zenodo.17816721 
 > *(Preprint · under blind peer review · la venue sarà resa pubblica al termine della revisione.)*
 ---
 
@@ -227,7 +227,7 @@ Le principali operazioni di data cleaning sono state:
 - **Raccolta dati:** Lugano, LongLake Festival – 16/18 Luglio 2025  
 - **Versione FAIR del dataset:** 2025  
 - **Publisher:** Zenodo
-- **Paper correlato:** *Seeing, thinking, sharing, sensing small data. A participatory framework to connect citizens' experiences with urban governance (Preprint / under blind peer review. La venue sarà resa pubblica dopo la conclusione del processo di revisione.)*
+- **Paper correlato:** Autuori, A. (2025). Seeing-thinking-sharing-sensing small data: A participatory framework to connect citizens' experiences with urban governance. Zenodo. DOI: ttps://doi.org/10.5281/zenodo.17816721
 
 ---
 
