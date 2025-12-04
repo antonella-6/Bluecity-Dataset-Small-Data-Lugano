@@ -139,7 +139,7 @@ Le variabili presenti nel dataset pubblico sono:
 - `Carta-Cartone`  
 - `Alluminio`  
 - `Batterie`  
-- `mappa_anonimizzata_link`  
+- `mappe_anonimizzate`  
 
 La definizione tecnica completa (tipi, origine, privacy) è contenuta nel **data_dictionary_ws_collective_maps.csv**.
 
